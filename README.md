@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @limonyessi
+- 👀 I’m interested in videogames, art and books
+- 🌱 I’m currently learning about data science
+- 💞️ I’m looking to collaborate on videogame modding and data science projects
+- 📫 You can reach me at 0213791@up.edu.mx
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I was born on father's day!
