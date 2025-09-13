@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on videogame modding and data science projects
 - 📫 You can reach me at 0213791@up.edu.mx
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I was born on father's day!
