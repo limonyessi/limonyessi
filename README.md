@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @limonyessi
-- 👀 I’m interested in videogames, art and books
-- 🌱 I’m currently learning about data science
-- 💞️ I’m looking to collaborate on videogame modding and data science projects
+- 👀 I’m interested in automating processes
+- 🌱 I’m currently getting my Master's Degree in Engineering (Automation and Control / Data Science)
+- 💞️ I'm looking to collaborate on projects in Data Science, Business Intelligence, and the creation of AI Agents
 - 📫 You can reach me at 0213791@up.edu.mx
-- 😄 Pronouns: she/her
